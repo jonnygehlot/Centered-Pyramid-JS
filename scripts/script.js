@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-
-</body>
-
-<script>
-    // for (var j = 1; j >= 5; j--) {
+ // for (var j = 1; j >= 5; j--) {
     //     for (var i = j; i <= 5; i--) {
     //         // document.write("*")
     //         console.log("*")
@@ -116,6 +102,3 @@
         }
         document.write('<br>')
     }
-</script>
-
-</html>
